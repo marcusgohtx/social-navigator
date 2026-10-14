@@ -1,0 +1,9 @@
+{
+  "name": "social-navigator",
+  "version": "0.1.2",
+  "description": "Read friend notes, suggest thoughtful questions, and prepare for catch-ups using a local Social Navigator Markdown vault.",
+  "author": {
+    "name": "Social Navigator contributors"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,23 @@
+# Personal working files. Keep only folder placeholders in the public template.
+/Conversations/*
+!/Conversations/.gitkeep
+/Context/People/*
+!/Context/People/.gitkeep
+/Context/Shared/*
+!/Context/Shared/.gitkeep
+/Prep/*
+!/Prep/.gitkeep
+/Attachments/
+/.obsidian/
+/.trash/
+/.codex/
+/.claude/
+/CLAUDE.local.md
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+
+# Protect notes in older copies of the vault too.
+/Cards/
