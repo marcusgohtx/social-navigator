@@ -2,7 +2,7 @@
 
 A free Markdown vault for notes about friends and preparation before meeting them. Edit it in Obsidian and open the same folder in Codex or Claude Code.
 
-[Try the website demo](https://social-navigator-notes.marcusgohtx.chatgpt.site/) · [Download the starter vault](https://social-navigator-notes.marcusgohtx.chatgpt.site/downloads/social-navigator-starter.zip) · [Start here](START_HERE.md)
+[Try the website demo](https://social-navigator.marcusgohtx.chatgpt.site/) · [Download the starter vault](https://social-navigator.marcusgohtx.chatgpt.site/downloads/social-navigator-starter.zip) · [Start here](START_HERE.md)
 
 START_HERE.md is the only guide needed for everyday use. Conversations holds your notes, Context holds sourced summaries, and Prep holds meeting preparation. Templates and five agent skills are included. Everything under Examples is fictional.
 
