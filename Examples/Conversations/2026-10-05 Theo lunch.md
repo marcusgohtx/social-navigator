@@ -1,6 +1,6 @@
 # Lunch with Theo Lim
 
-Fictional example. Conversation and note date: 2026-10-05.
+Conversation and note date: 2026-10-05.
 
 Theo is in operations at Harbour Studio. He said the office move is in December. I didn't ask if he meant his team or everyone. Maya had said November, so I'm not sure how those fit together.
 

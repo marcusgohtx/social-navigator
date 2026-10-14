@@ -1,6 +1,6 @@
 # What I already know about Maya Chen
 
-Fictional example. Written on 2026-10-01. These are recollections, not a conversation on that date.
+Written on 2026-10-01. These are recollections, not a conversation on that date.
 
 We met in a weekend ceramics class last year. Maya likes making mugs and trying small cafes. I usually call her Maya.
 

@@ -1,6 +1,6 @@
 # Maya Chen
 
-Fictional, AI-maintained context. Last refreshed: 2026-10-10. All extractions below are unreviewed candidates.
+AI-maintained context. Last refreshed: 2026-10-10. All extractions below are unreviewed candidates.
 
 Known name: Maya. Shared context: [Harbour Studio](../Shared/Harbour%20Studio.md).
 

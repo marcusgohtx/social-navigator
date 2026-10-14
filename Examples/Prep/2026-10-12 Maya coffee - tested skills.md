@@ -1,7 +1,7 @@
-# Maya Chen - coffee (fictional)
+# Maya Chen - coffee
 
 Meeting: 2026-10-12. Prepared: 2026-10-11.
-Status: fictional snapshot, sources checked on 2026-10-11. Refresh before reuse.
+Status: snapshot, sources checked on 2026-10-11. Refresh before reuse.
 
 ## Remember
 
@@ -19,7 +19,7 @@ If you have something to share, tell her what you've been making in ceramics cla
 
 ## Keep in mind
 
-Coverage: all three fictional notes in Examples/Conversations. No later update confirms the workshop status or whether the cafe message was sent. Questions are optional; follow her lead.
+Coverage: all three notes in Examples/Conversations. No later update confirms the workshop status or whether the cafe message was sent. Questions are optional; follow her lead.
 
 ## Sources
 

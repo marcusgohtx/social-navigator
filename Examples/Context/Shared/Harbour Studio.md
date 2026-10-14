@@ -1,6 +1,6 @@
 # Harbour Studio
 
-Fictional, AI-maintained shared context. Last refreshed: 2026-10-10.
+AI-maintained shared context. Last refreshed: 2026-10-10.
 
 People: [Maya Chen](../People/Maya%20Chen.md), [Theo Lim](../People/Theo%20Lim.md). Their working relationship is unknown.
 

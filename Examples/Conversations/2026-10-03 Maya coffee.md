@@ -1,6 +1,6 @@
 # Coffee with Maya Chen
 
-Fictional example. Conversation and note date: 2026-10-03.
+Conversation and note date: 2026-10-03.
 
 Maya said she had booked a room for a beginner ceramics workshop on October 18. She was deciding whether six people would be a good first group. She sounded excited to me, though that's my impression.
 

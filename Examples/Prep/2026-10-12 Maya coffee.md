@@ -1,6 +1,6 @@
 # Maya - coffee
 
-Fictional example. Meeting: 2026-10-12. Prepared: 2026-10-10.
+Meeting: 2026-10-12. Prepared: 2026-10-10.
 Status: snapshot, sources checked on 2026-10-10. Refresh before reuse.
 
 ## Remember

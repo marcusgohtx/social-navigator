@@ -1,6 +1,6 @@
 # Theo Lim
 
-Fictional, AI-maintained context. Last refreshed: 2026-10-10. All extractions are unreviewed candidates.
+AI-maintained context. Last refreshed: 2026-10-10. All extractions are unreviewed candidates.
 
 Shared context: [Harbour Studio](../Shared/Harbour%20Studio.md).
 
